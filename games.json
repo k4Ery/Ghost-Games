@@ -4,5 +4,11 @@
     "genre": "хоррор, головоломка",
     "url": "games/verity/index.html",
     "cover": "games/verity/verity-cover.jpg"
+  },
+  {
+    "title": "Объединяй Хряков",
+    "genre": "логика, головоломка",
+    "url": "games/pigs/index.html",
+    "cover": "games/pigs/pigs-cover.jpg"
   }
 ]
